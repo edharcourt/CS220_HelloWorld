@@ -1,8 +1,8 @@
-# CS220_DS5_Template
+## CS220_HelloWorld
 
-1) cd into DS-5-Worksapce and do a git clone https://github.com/edharcourt/CS220_DS5_Template.git 
+1) cd into DS-5-Worksapce and do a git clone https://github.com/edharcourt/CS220_HelloWorld.git 
 
-2) File --> New Project --> Makefile Project. In the empty text box at the top, for the project name, enter the same exact name as the github repo. In this case it is *CS220_DS5_Template*.
+2) File --> New Project --> Makefile Project from existing source. In the empty text box at the top, for the project name, enter the same exact name as the github repo. In this case it is *CS220_HelloWorld*.  Make sure to check the box for the compiler toolchain.
 
 3) Make sure the project builds without error by clicking on the icon of the hammer near the top of the IDE.
 
